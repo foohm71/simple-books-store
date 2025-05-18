@@ -2,6 +2,8 @@
 
 A modern web application for browsing and ordering books, built with Next.js and Tailwind CSS.
 
+![Simple Books Store Screenshot](Screenshot-Simple-Books-Shop.png)
+
 ## Features
 
 - Browse books with filtering by type (fiction/non-fiction)
